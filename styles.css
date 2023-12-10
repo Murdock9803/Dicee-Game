@@ -17,7 +17,7 @@ body {
 
 .btn {
     border: 3px solid #b3a2a2;
-    border-radius: 20%;
+    border-radius: 8px;
     color: #b3a2a2;
     font-weight: bold;
     padding: 5px;
